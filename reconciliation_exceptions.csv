@@ -1,0 +1,7 @@
+order_id,currency,expected_minor,paid_total_minor,diff_minor,recon_status
+O002,USD,2550,,,无同币种付款记录
+O003,USD,5000,4500,500,金额不一致
+O004,USD,4000,6000,-2000,金额不一致
+0028,USD,3800,,,无同币种付款记录
+0029,USD,3900,,,无同币种付款记录
+0030,USD,4000,,,无同币种付款记录
